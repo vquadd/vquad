@@ -14,7 +14,7 @@ The Repositary contains code for TSM (Textual Sequential Model, _details in pape
   </td>
   <td width="50%">
     <p align="center">
-      <img src="https://user-images.githubusercontent.com/48205355/53881587-13718b80-403a-11e9-9da4-8217472fffb6.png" align="center">
+      <img src="fig/VQuAD_nips_000067.gif" align="center">
     </p>
 <!--     <p align="center"><b>check</b></p> -->
   </td>
@@ -31,7 +31,7 @@ Left:  Humor, Right:  Non-Humor.  Bubble plots drawn to visualize the vocabulary
   <table>
   <tr>
     <td width="100%">
-<img src="https://user-images.githubusercontent.com/48205355/53881679-474cb100-403a-11e9-9d92-c71a0c634fe9.png" align="center">
+<img src="fig/VQuAD_nips_000067.gif" align="center">
     </td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@ A tSNE plot made by randomly selecting 1500 images (each from Humorous and Non-H
   </tr>
     <tr>
     <td width="100%">
-<img src="https://user-images.githubusercontent.com/48205355/53881680-47e54780-403a-11e9-823b-79386e56c39e.png" align="center">
+<img src="fig/VQuAD_nips_000067.gif" align="center">
     </td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ A green dot represents a humorous sample and red dot,  a non-humorous sample. Th
 <table>
     <tr>
   <td width="33.33%">
-  <img src="https://user-images.githubusercontent.com/48205355/53884884-88e15a00-4042-11e9-99a5-8fdd7a46ce68.png" align="center">
+  <img src="fig/VQuAD_nips_000067.gif" align="center">
   </td>
     <td width="33.33%">
   <img src="https://user-images.githubusercontent.com/48205355/53952853-f13e4300-40f7-11e9-9444-7d9a030dc4ae.png" align="center">
