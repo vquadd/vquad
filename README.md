@@ -1,6 +1,5 @@
-# vquad
-VQuAD: Video Question Answering Diagnosis
-# Visual-Humor-Dataset
+# VQuAD: Video Question Answering Diagnosis
+
 The Repositary contains code for TSM (Textual Sequential Model, _details in paper_) and some more analysis for our Anonymous Submission.
 
 ### Additional Plots/Figures (Not in the main paper, were attached as Supplementary material)
@@ -9,7 +8,7 @@ The Repositary contains code for TSM (Textual Sequential Model, _details in pape
 <tr width="100%">
   <td width="50%">
     <p align="center">
-      <img src="https://user-images.githubusercontent.com/48205355/53881586-13718b80-403a-11e9-86ca-c7f7115fcc1d.png" align="center">
+      <img src="fig/VQuAD_nips_000067.gif" align="center">
     </p>
 <!--     <p align="center"><b>check</b></p> -->
   </td>
